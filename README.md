@@ -1,7 +1,7 @@
 # armamentarium-combat-patrol-data
 
 BattleScribe catalogue data for the fixed Combat Patrol rosters of Warhammer 40,000, read by the
-[Armamentarium](https://github.com/LordTyberias/Armamentarium) project.
+[Armamentarium](https://github.com/Strecker-IT/Armamentarium) project.
 
 - `Combat Patrol.gst` — the game system: profile types, the categories, one force entry.
 - 34 `.cat` files — one per faction, together holding **337 unit entries** and **76 rules rows**
@@ -247,7 +247,7 @@ off the leader's datasheet into the detachment's rules row. A half rebuild would
 enhancement twice.
 
 **Source.** The Warhammer 40,000 app, read with the harvester in
-`LordTyberias/Armamentarium` under `tools/app-harvester/`, and written by the generator beside it
+`Strecker-IT/Armamentarium` under `tools/app-harvester/`, and written by the generator beside it
 under `tools/cp-11e-builder/`. Both are tracked there, and so is the harvest they read — a further
 patrol set from Games Workshop costs a run rather than another hand transcription.
 
